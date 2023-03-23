@@ -8,7 +8,8 @@
     "dois": "node ./src/exer02",
     "tres": "node ./src/exer03",
     "quatro": "node ./src/exer04",
-    "cinco": "node ./src/exer05"
+    "cinco": "node ./src/exer05",
+    "seis": "node ./src/exer06"
   },
   "keywords": [],
   "author": "",
